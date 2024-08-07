@@ -6,7 +6,8 @@ Currently contains all 5-vertex-critical co-gem-free graphs up to order at most 
 Note that there are 327 graphs total and the largest order is order 12, so no such graphs exist of order 13-18. Here is the output of the program (other than the actual graphs):
 
 
-./critical_Pfree_graphs 18 c4 P4 P1 vertexcritical\n
+./critical_Pfree_graphs 18 c4 P4 P1 vertexcritical
+
 32 bit mode
 Info: only outputting graphs which are NOT 4-colourable
 Info: only outputting graphs with no induced P4's
