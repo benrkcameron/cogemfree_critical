@@ -60,32 +60,61 @@ Nv=12, times P-free: 1435465 (2.66%)
 Nv=13, times P-free: 2733821 (1.07%)
 
 Nv=14, times P-free: 4577015 (0.50%)
+
 Nv=15, times P-free: 6936037 (0.24%)
+
 Nv=16, times P-free: 9644799 (0.12%)
+
 Nv=17, times P-free: 12984270 (0.06%)
+
 Nv=18, times P-free: 17240393 (0.03%)
+
 Nv=10, times no lemmas applicable: 452
+
 Nv=11, times no lemmas applicable: 161
+
 Nv=12, times no lemmas applicable: 6
+
 Nv=13, times no lemmas applicable: 0
+
 Nv=14, times no lemmas applicable: 1
+
 Nv=15, times no lemmas applicable: 0
+
 Nv=16, times no lemmas applicable: 0
+
 Nv=17, times no lemmas applicable: 0
+
 Nv=5, num non-iso graphs gen: 1 (incl. iso: 1), noniso: 100.00%
+
 Nv=6, num non-iso graphs gen: 6 (incl. iso: 15), noniso: 40.00%
+
 Nv=7, num non-iso graphs gen: 49 (incl. iso: 113), noniso: 43.36%
+
 Nv=8, num non-iso graphs gen: 491 (incl. iso: 1416), noniso: 34.68%
+
 Nv=9, num non-iso graphs gen: 5462 (incl. iso: 18443), noniso: 29.62%
+
 Nv=10, num non-iso graphs gen: 47787 (incl. iso: 120728), noniso: 39.58%
+
 Nv=11, num non-iso graphs gen: 220373 (incl. iso: 367235), noniso: 60.01%
+
 Nv=12, num non-iso graphs gen: 644759 (incl. iso: 864603), noniso: 74.57%
+
 Nv=13, num non-iso graphs gen: 1356564 (incl. iso: 1622208), noniso: 83.62%
+
 Nv=14, num non-iso graphs gen: 2440682 (incl. iso: 2845922), noniso: 85.76%
+
 Nv=15, num non-iso graphs gen: 3821533 (incl. iso: 4459858), noniso: 85.69%
+
 Nv=16, num non-iso graphs gen: 5559340 (incl. iso: 6554951), noniso: 84.81%
+
 Nv=17, num non-iso graphs gen: 7795539 (incl. iso: 9274065), noniso: 84.06%
+
+
 Nv=18, num non-iso graphs gen: 10774304 (incl. iso: 12843975), noniso: 83.89%
+
 Number of vertex-critical graphs written: 327
+
 CPU time: 122773.0 seconds.
 
