@@ -9,31 +9,56 @@ Note that there are 327 graphs total and the largest order is order 12, so no su
 ./critical_Pfree_graphs 18 c4 P4 P1 vertexcritical
 
 32 bit mode
+
 Info: only outputting graphs which are NOT 4-colourable
+
 Info: only outputting graphs with no induced P4's
+
 Info: outputting vertex critical graphs
+
 Program for outputting 5-critical P4-free graphs
+
 Actually only outputting (P4+P1)-free graphs!
+
 Info: NUM_PREV_SETS: 20
+
 Info: LEVEL_LEAST_CHILDREN: 32
 Info: only outputting k-vertex-critical graphs
+
 ./critical_Pfree_graphs 18 c4 P4 P1 vertexcritical
+
 Info: writing K5
+
 Info: starting construction from C5
+
 Info: starting construction from C7
+
 Info: starting construction from C9
+
 Info: starting construction from C11
+
 Info: starting construction from C13
+
 Info: starting construction from C15
+
 Info: starting construction from C17
+
 Info: starting construction from antihole C7 (chromatic number: 4)
+
 Info: starting construction from antihole C9 (chromatic number: 5)
+
 Nv=8, times P-free: 1463 (67.92%)
+
 Nv=9, times P-free: 20127 (49.69%)
+
 Nv=10, times P-free: 161881 (22.87%)
+
 Nv=11, times P-free: 581792 (7.52%)
+
 Nv=12, times P-free: 1435465 (2.66%)
+
 Nv=13, times P-free: 2733821 (1.07%)
+
 Nv=14, times P-free: 4577015 (0.50%)
 Nv=15, times P-free: 6936037 (0.24%)
 Nv=16, times P-free: 9644799 (0.12%)
